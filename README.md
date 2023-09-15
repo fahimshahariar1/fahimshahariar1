@@ -1,3 +1,6 @@
+[![MasterHead](https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg)]
+
+
 # 💫 About Me:
 ### Hi there, I'm Fahim Shahariar! 👋<br><br>I'm a passionate Computer Science and Engineering student based in Dhaka, Bangladesh, on a journey to explore the vast world of technology and innovation. <br><br>- 🌟 **Curious Learner**: I have an insatiable thirst for knowledge and love diving into new skills and concepts every day.<br>- 📱 **Mobile App Developer**: My primary focus is mobile app development, and I specialize in Flutter for crafting cross-platform experiences.<br>- 🚀 **Startup Enthusiast**: I'm deeply interested in entrepreneurship and aspire to create a hub for innovative business solutions.<br>- 💻 **Tech Stack**: I'm proficient in C, C++, Python, Java, Dart, and have hands-on experience with various development tools and frameworks.<br><br>I believe in the power of innovation and collaboration to drive positive change. Let's connect and explore the world of tech together!<br><br>🌐 **Find me on:** [LinkedIn](https://linkedin.com/in/fahim-shahariar-b10141184/) | [GitHub](https://github.com/fahimshahariar1) | [YouTube](https://youtube.com/@fahimshahariar1)<br>
 
