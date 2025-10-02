@@ -1,4 +1,4 @@
-[![MasterHead](![BlackandGreenTexturedProfessionalStartupBusinessVideo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/16eeccc5-df19-4eb5-86c9-e70f4dc266b7))]
+[![MasterHead](https://github.com/user-attachments/assets/16eeccc5-df19-4eb5-86c9-e70f4dc266b7)]
 
 # 💫 About Me:
 
