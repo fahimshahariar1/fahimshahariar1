@@ -1,4 +1,6 @@
-[![MasterHead](https://github.com/user-attachments/assets/16eeccc5-df19-4eb5-86c9-e70f4dc266b7)]
+
+
+[![MasterHead](https://github.com/user-attachments/assets/81aae538-16d6-4b13-9c8e-370069e1c579)]
 
 # 💫 About Me:
 
